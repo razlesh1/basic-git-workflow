@@ -1,5 +1,9 @@
-.title {
+#title {
     font-size: 500px;
     color: #ff0000;
     padding: 40px;
+}
+
+.hidden {
+    display: none;
 }
